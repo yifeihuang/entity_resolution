@@ -1,2 +1,2 @@
-# entity_resolution
+# Entity Resolution
 Example entity resolution workflow using PySpark
